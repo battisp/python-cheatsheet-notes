@@ -1,7 +1,5 @@
 # Python notes for System Design, Routing, Algorithms &amp; Data Structures made by me
 
-> **Come leggere questa dispensa.** Il materiale organizza e consolida le seguenti lezioni : fondamenti Python, OOP, dataclass, `bisect`, strutture `collections`, poi livelli 1–5. Ogni esercizio ha **immediatamente dopo** una soluzione proposta e dei test. Alcuni esercizi sono semplificazioni didattiche: **non sostituiscono** la specifica originale. I requisiti fedeli all'allegato sono distinti dalle nostre implementazioni di allenamento.
-
 ## Indice
 
 1. [Struttura](#1-struttura)
